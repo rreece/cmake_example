@@ -7,6 +7,14 @@ An example [pybind11](https://github.com/pybind/pybind11) module built with a
 CMake-based build system. This is useful for C++ codebases that have an existing
 CMake project structure.
 
+## Ryan's additional notes
+
+Install in a virtualenv:
+
+    git clone --recursive git@github.com:rreece/cmake_example.git
+    mkvirtualenv env1
+    pip install ./cmake_example
+
 
 ## Prerequisites
 
